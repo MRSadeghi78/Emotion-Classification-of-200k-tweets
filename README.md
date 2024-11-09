@@ -1,4 +1,4 @@
-# Emotion Classification of 200k Tweets
+# Emotion Classification of 600k Tweets
 ## Project Overview
 This project involves processing, analyzing, and classifying emotions from a large dataset of Twitter posts labeled with six distinct emotion categories: anger, surprise, fear, joy, sadness, and love. The dataset is available on Kaggle, containing over 600K records. The goal is to explore various natural language processing (NLP) and machine learning techniques to analyze and classify emotional states.
 
